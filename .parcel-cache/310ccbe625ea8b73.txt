@@ -1,0 +1,13 @@
+12
+53/home/zhang/myProject/CV-1/dist/index.1a648120.js.map1668951153220784000 0
+42/home/zhang/myProject/CV-1/dist/index.html1668951153220784000 0
+31/home/zhang/myProject/CV-1/dist1668951153220784000 1
+36/home/zhang/myProject/CV-1/yarn.lock1668949709509045200 0
+40/home/zhang/myProject/CV-1/src/styel.css1668948402729045200 0
+41/home/zhang/myProject/CV-1/src/index.html1668948765599045200 0
+38/home/zhang/myProject/CV-1/src/main.js1668948372929045200 0
+30/home/zhang/myProject/CV-1/src1668948402729045200 1
+55/home/zhang/myProject/CV-1/node_modules/.yarn-integrity1668949709509045200 0
+39/home/zhang/myProject/CV-1/node_modules1668949709509045200 1
+49/home/zhang/myProject/CV-1/dist/index.1a648120.js1668951153220784000 0
+26/home/zhang/myProject/CV-11668951153200784000 1
