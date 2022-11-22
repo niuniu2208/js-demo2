@@ -1,6 +1,6 @@
 let html = document.querySelector("#html")
 let style = document.querySelector("#style")
-let string = `/* 你好，我叫小张。接下来我演示下我的前端功底，首先准备一个div */
+let string = `/* 你好，我叫小N。接下来我演示下我的前端功底，首先准备一个div */
 #div1{
   border: 1px solid red;
   width: 200px;
